@@ -1,0 +1,48 @@
+# =========================
+# Frontend - Node / Vite
+# =========================
+frontend/node_modules/
+node_modules/
+dist/
+.vite/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# =========================
+# Backend - Maven
+# =========================
+backend/target/
+
+# =========================
+# Java / IntelliJ
+# =========================
+.idea/
+*.iml
+*.class
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Database files
+# =========================
+*.mv.db
+*.trace.db
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/

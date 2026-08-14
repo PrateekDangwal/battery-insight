@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-bg-primary text-text-primary;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+* {
+  @apply border-border-color;
+}
+
+html {
+  scroll-behavior: smooth;
+}
