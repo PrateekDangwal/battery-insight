@@ -5,6 +5,8 @@ A full-stack Battery Health Analyzer that processes battery telemetry data and g
 The project is designed as an engineering prototype for understanding how battery telemetry can be collected, stored, analyzed, and presented through a web dashboard.
 
 ---
+# Live Deployment Link
+https://battery-insight.vercel.app/
 
 ## Overview
 
