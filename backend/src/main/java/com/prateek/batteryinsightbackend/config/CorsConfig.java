@@ -16,7 +16,8 @@ public class CorsConfig {
                 registry.addMapping("/api/**")
                         .allowedOrigins(
                                 "http://localhost:5173",
-                                "http://localhost:3000"
+                                "http://localhost:3000",
+                                "https://battery-insight.vercel.app"
                         )
                         .allowedMethods(
                                 "GET",
